@@ -1,0 +1,5 @@
+This sample is part of the "Loach" project.  Here I show the differences between sync and a-sync servlets.
+
+Run the project in a Java EE container, then visit the example.html
+
+Kevin Wang  4/5/2012
